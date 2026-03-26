@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33f5b08e-4b23-4be3-98c4-ed461436ca03" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/פרויקטים בפייתון.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/פרויקטים בפייתון.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cs_scripts/logPerhh.ps1" beforeDir="false" afterPath="$PROJECT_DIR$/cs_scripts/logPerhh.ps1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/myapp.py" beforeDir="false" afterPath="$PROJECT_DIR$/myapp.py" afterDir="false" />
     </list>
@@ -37,6 +35,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "PowerShell.logPerhh.ps1.executor": "Run",
     "Python.myapp.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
